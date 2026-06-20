@@ -12,6 +12,8 @@ multi-ec2-multi-region
  |------ variables.tf
  |---
 <img width="412" height="567" alt="image" src="https://github.com/user-attachments/assets/7ac5bbbe-5765-434a-ad1a-b07d80055440" />
+
+
 Step 1: Define Region Map
 <img width="1217" height="732" alt="image" src="https://github.com/user-attachments/assets/a1efecb7-1533-4b4b-8f91-eb1e09365c7f" />
 Step 2: Configure providers
